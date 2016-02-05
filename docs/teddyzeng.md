@@ -1,4 +1,5 @@
 Teddy Zeng
 Brooklyn
-Favoriate food: sushi
+Favorite food: sushi
 Hobby: basketball
+Favorite color: blue
